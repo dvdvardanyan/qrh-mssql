@@ -7,3 +7,4 @@
 * [Ola Hallengren Page](https://ola.hallengren.com/)
 * [DoD Cyber Exchange - STIGs](https://public.cyber.mil/stigs/downloads/)
 * [NIST - National Checklist Program - Repositories](https://ncp.nist.gov/repository)
+* [Brent Ozar Unlimited](https://www.brentozar.com/)
